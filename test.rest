@@ -1,5 +1,0 @@
-DELETE    http://localhost:3000/savedpersons/62640fbac2840bdb8abd5075
-Content-Type: application/json
-Accept: application/json
-
-

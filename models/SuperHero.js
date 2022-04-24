@@ -18,7 +18,7 @@ const superHeroSchema = new schema({
         required : true,
         validate : {
             validator : Number.isInteger,
-            message : "Enter a fucking integer bitch"
+            message : "Enter an integer please"
         }
     }
     ,
@@ -27,7 +27,7 @@ const superHeroSchema = new schema({
         required : true,
         validate : {
             validator : Number.isInteger,
-            message : "Enter a fucking integer bitch"
+            message : "Enter an integer please"
         }
     }
     ,
@@ -36,7 +36,7 @@ const superHeroSchema = new schema({
         required : true,
         validate : {
             validator : Number.isInteger,
-            message : "Enter a fucking integer bitch"
+            message : "Enter an integer please"
         }
     }
 }); 
